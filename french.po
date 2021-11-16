@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Radiant\n"
 "POT-Creation-Date: 2021-06-14 02:04\n"
-"PO-Revision-Date: 2021-07-21 01:25+0200\n"
+"PO-Revision-Date: 2021-09-02 01:56+0200\n"
 "Language-Team: \n"
 "Language: fr_FR\n"
 "MIME-Version: 1.0\n"
@@ -12,14 +12,14 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "Last-Translator: \n"
-"X-Generator: Poedit 2.3.1\n"
+"X-Generator: Poedit 3.0\n"
 
 #. Key:	0009BEE346934010A7F79C8CF23B20D5
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP3/FernDefault03_R02.Default__FernDefault03_R02_C.SessionData.Lines(1).Lines
 #: /Game/Dialogue/Fern/DefaultP3/FernDefault03_R02.Default__FernDefault03_R02_C.SessionData.Lines(1).Lines
 msgctxt ",0009BEE346934010A7F79C8CF23B20D5"
 msgid "This is my final form, and it feels so amazing. I smell beautiful too!"
-msgstr "Ceci est ma forme finale, je me sens tellement bien. Mon odeur est si envoûtante !"
+msgstr "Ceci est ma forme finale, je me sens tellement bien. Et mon odeur est si envoûtante !"
 
 #. Key:	00164C5345E544D784CC289035CEF701
 #. SourceLocation:	/Game/Dialogue/MegaSlime/Default/MegaSlimePlay_RL.Default__MegaSlimePlay_RL_C.ResponseData(0).ResponseData.BreederPrompt
@@ -160,7 +160,7 @@ msgstr "D'après ce dont je me souviens, j'étais de descendance Liasis. Une rac
 #: /Game/Dialogue/Leylanna/Default/LeylannaDefault01_RechargeSpiritForm_RL_T.Default__LeylannaDefault01_RechargeSpiritForm_RL_T_C.ResponseData(1).ResponseData.BreederPrompt
 msgctxt ",02FDE6D44BCEE7E9CD0113AACDF9C4E2"
 msgid "This is getting weird..."
-msgstr "Ça devient étrange ..."
+msgstr "Ça devient bizarre ..."
 
 #. Key:	03434DDC47EC9AE95DD6FF899A0ECE62
 #. SourceLocation:	/Game/Dialogue/Fesssi/Default/FesssiCave.Default__FesssiCave_C.SessionData.Lines(1).Lines
@@ -384,7 +384,7 @@ msgstr "Tu as besoin d'un bain. Viens là, place ton corps entre mes seins, je v
 #: /Game/Dialogue/MegaSlime/Default/MegaSlimePlay1.Default__MegaSlimePlay1_C.SessionData.LinesToFuta(3).LinesToFuta
 msgctxt ",07B2E95342A617616201F19B87E3655A"
 msgid "You will feel so good as I milk your cock for all of its delicious semen..."
-msgstr "Tu va te sentir tellement bien pendant que je vais traire ta bite et en extraire tout son délicieux sperme ..."
+msgstr "Tu va te sentir tellement bien pendant que je trairai ta bite pour en extraire tout son délicieux sperme ..."
 
 #. Key:	07E0077146239E020D026BADBDFCE890
 #. SourceLocation:	/Game/Breeding/Positions/Harvest.Default__Harvest_C.SessionData.PositionName
@@ -1698,7 +1698,7 @@ msgstr "Tu viens de devenir le nouvel habitant de @WORLD_NAME@ !"
 #: /Game/Breeding/Positions/Test5.Default__Test5_C.SessionData.PositionName
 msgctxt ",20BEB0FA47066DBAB732F68642C6BAC3"
 msgid "Test5"
-msgstr "Teste5"
+msgstr "Test5"
 
 #. Key:	20D02E2F4C47F242698FA2B18D41F1BE
 #. SourceLocation:	/Game/Dialogue/OrcChief/Default/OrcTribeSucks.Default__OrcTribeSucks_C.SessionData.Lines(2).Lines
@@ -2086,7 +2086,7 @@ msgstr "Comment puis-je vous aider humain ?"
 #: /Game/Dialogue/Monarch/Default/MonarchHadSex01.Default__MonarchHadSex01_C.SessionData.LinesToFemale(1).LinesToFemale
 msgctxt ",274F1AF94ECA42FE2B8A2E8E36BB6611"
 msgid "*Blush*"
-msgstr "*Rougi*"
+msgstr "*Rougis*"
 
 #. Key:	2754CCC847A38E21CD70C58BFAE0F514
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP3/FernBeeFlowers3.Default__FernBeeFlowers3_C.SessionData.Lines(2).Lines
@@ -5585,7 +5585,7 @@ msgstr "Charmeur"
 #: /Game/Breeding/Positions/Test3.Default__Test3_C.SessionData.PositionName
 msgctxt ",693F4313487D2153C164CFBF808F1814"
 msgid "Test3"
-msgstr "Teste3"
+msgstr "Test3"
 
 #. Key:	694BFC904B3397B73FEBEF836CD65954
 #. SourceLocation:	/Game/Dialogue/MegaSlime/Default/MegaSlimeAboutOrb.Default__MegaSlimeAboutOrb_C.SessionData.Lines(4).Lines
@@ -14985,7 +14985,7 @@ msgstr "Désir"
 #: Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:38
 msgctxt "CharacterDetails,LustTooltip"
 msgid "Represents how horny this one has become. When lust reaches zero, sexual activity and most actions cannot be performed."
-msgstr "À quel point celui-ci est excité. Lorsque le désire tombe a zéro, la plupart des actions dont les activités sexuelles ne peuvent plus être accomplies."
+msgstr "Représente son excitation. Lorsque le désir tombe a zéro, la plupart des actions dont les activités sexuelles ne peuvent plus être accomplies."
 
 #. Key:	Mother
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:123
@@ -15748,7 +15748,7 @@ msgstr "Tous les presets correspondant à cette variante verront leurs valeurs r
 #: Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:141
 msgctxt "ConfirmationBox,PresetPropagateTitle"
 msgid "Propagate Preset Shape?"
-msgstr "Propager les valeurs corporels du preset ?"
+msgstr "Propager les valeurs corporelles du preset ?"
 
 #. Key:	PresetSkinConfirm
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:172
@@ -16812,7 +16812,7 @@ msgstr "Camera"
 #: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:283
 msgctxt "SettingsMenu,CameraPan"
 msgid "Pan Rate"
-msgstr "Pan Rate"
+msgstr "Niveau de panoramique"
 
 #. Key:	CameraRotate
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:259
@@ -16994,7 +16994,7 @@ msgstr "La couleur de pelage des progénitures sera héritée des deux parents."
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:112
 msgctxt "SettingsMenu,MixOffspring"
 msgid "Blend Offspring Colors"
-msgstr "Mélange les couleurs des parents"
+msgstr "Mélange les couleurs des progénitures"
 
 #. Key:	MusicVolume
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:564
@@ -17113,7 +17113,7 @@ msgstr "UI"
 #: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:540
 msgctxt "SettingsMenu,VocalsVolume"
 msgid "Vocals"
-msgstr "Vocal"
+msgstr "Voix"
 
 #. Key:	Volume
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:476
@@ -17379,7 +17379,7 @@ msgstr "Filtrer par race."
 #: Source/Radiant/Public/UI/Components/SexyResourceList.cpp:96
 msgctxt "SSexyResourceList,SexFilterTooltip"
 msgid "Filter by sex."
-msgstr "Filter par sexe."
+msgstr "Filtrer par sexe."
 
 #. Key:	SizeFilterTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyResourceList.cpp:112
@@ -17470,7 +17470,7 @@ msgstr "Fellation spontanée !"
 #: Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:344
 msgctxt "SSexyRoamerMenu,ResistMessage"
 msgid "Rapidly click to resist climax."
-msgstr "Clique rapidement pour résister à l'orgasme."
+msgstr "Cliquer rapidement pour résister à l'orgasme."
 
 #. Key:	RoamerWindowTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:230
@@ -17491,7 +17491,7 @@ msgstr "Sexe surprise !"
 #: Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:344
 msgctxt "SSexyRoamerMenu,TaskRBJ"
 msgid "Let her work her wonder."
-msgstr "Laisse la satisfaire sa curiosité."
+msgstr "Laisse-la satisfaire sa curiosité."
 
 #. Key:	CheatFavor
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:993
@@ -17526,7 +17526,7 @@ msgstr "1,000,000 orgasium ajoutés."
 #: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:1031
 msgctxt "SSexySettingsMenu,CheatRanch"
 msgid "All barns added to ranch."
-msgstr "Toutes les installations ajoutées à la ferme."
+msgstr "Toutes les granges sont ajoutées à la ferme."
 
 #. Key:	CheatRemove
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:983
