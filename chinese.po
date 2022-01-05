@@ -39,7 +39,7 @@ msgstr "奶牛棚"
 #: /Game/Dialogue/Leylanna/Default/LeylannaHadSex01.Default__LeylannaHadSex01_C.SessionData.LinesToFuta(3).LinesToFuta
 msgctxt ",002F7FED4D68AF160CEAFFB092D0F2E2"
 msgid "Bring that hard cock over here... I want to feel it inside me."
-msgstr ""
+msgstr "把那根硬邦邦的玩意塞进我的里面…让我好好感受一下。"
 
 #. Key:	0061A5124B098F61DE991D81AB884112
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieDefault01_Meow.Default__CassieDefault01_Meow_C.SessionData.LinesToFemale(3).LinesToFemale
@@ -53,7 +53,7 @@ msgstr "这条小皮制工具带几乎装不下我的黄油棒!"
 #: /Game/Dialogue/QueenBee/Default/BeeHaveKeystone.Default__BeeHaveKeystone_C.SessionData.Lines(1).Lines
 msgctxt ",00D1AE354BA8FEC1FB7DB5A02D3F12AA"
 msgid "Ahh... oh! Ahem."
-msgstr ""
+msgstr "啊……哦~！嗯啊~"
 
 #. Key:	01386D9C478E6BE9974F00942E5EA1E0
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruDefault01_RL.Default__MirruDefault01_RL_C.ResponseData(0).ResponseData.BreederPrompt
@@ -74,7 +74,7 @@ msgstr "欸，尼不全部咽干净尼就别想走！"
 #: /Game/Dialogue/Monarch/Default/MonarchStartShySex.Default__MonarchStartShySex_C.SessionData.LinesToMale(3).LinesToMale
 msgctxt ",0169F2A34BA4C1104CDDEE99B3A3B50E"
 msgid "So I can, y-y-you know... feel your cock deep inside me."
-msgstr ""
+msgstr "所以我是否…能感受一下被你的肉棒顶到最深处的…你…你明白了嘛？"
 
 #. Key:	017B23B341D5CE5BB9CC0293262CBD91
 #. SourceLocation:	/Game/Ranch/Upgrades/HarpyAviary.Default__HarpyAviary_C.Upgrade.Description
@@ -116,21 +116,21 @@ msgstr "哦瞧瞧吧，这可真是位稀客。"
 #: /Game/Dialogue/Fern/DefaultP3/FernDefault03_RL_F.Default__FernDefault03_RL_F_C.ResponseData(5).ResponseData.BreederPrompt
 msgctxt ",0207AC704D78649132718BBF7F0F0CA1"
 msgid "The Queen Bee demands flowers."
-msgstr ""
+msgstr "女王蜂渴望着花朵"
 
 #. Key:	022313C047D185193F98C48BE5852E62
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruHadSex01.Default__MirruHadSex01_C.SessionData.LinesToMale(4).LinesToMale
 #: /Game/Dialogue/Mirru/Default/MirruHadSex01.Default__MirruHadSex01_C.SessionData.LinesToMale(4).LinesToMale
 msgctxt ",022313C047D185193F98C48BE5852E62"
 msgid "It's not often one so small has the courage to dick a kraken. I hope my fleshy body pleased you."
-msgstr ""
+msgstr "以幼崽来说，敢于用自己的肉棒挑战克拉肯真是勇气可嘉…希望我的肉穴能让你不虚此行。"
 
 #. Key:	026D19BC4A6B81E2694FF6B5E6EC3D9C
 #. SourceLocation:	/Game/Dialogue/DragonMatriarch/Default/DMDefault_RL5_F.Default__DMDefault_RL5_F_C.ResponseData(1).ResponseData.BreederPrompt
 #: /Game/Dialogue/DragonMatriarch/Default/DMDefault_RL5_F.Default__DMDefault_RL5_F_C.ResponseData(1).ResponseData.BreederPrompt
 msgctxt ",026D19BC4A6B81E2694FF6B5E6EC3D9C"
 msgid "Eeek... big genitals!"
-msgstr ""
+msgstr "…嗯~！真够大的…"
 
 #. Key:	028C9ACB45CFD05DB106DBA06B056886
 #. SourceLocation:	/Game/World/Overworld.Overworld:PersistentLevel.StarfallenMonolith.ManageActionMessage
@@ -151,7 +151,7 @@ msgstr "当然了，他们于此还是很温柔的。到目前为止还没出现
 #: /Game/Dialogue/Neela/Default/NeelaDefault01_AboutLamias.Default__NeelaDefault01_AboutLamias_C.SessionData.Lines(2).Lines
 msgctxt ",02FA062A4ABF915F50D8B38C08105557"
 msgid "From what I remember, I was of Liasis descent. A race said to roam Lewd Desert long ago."
-msgstr ""
+msgstr "据我所知，我应该是是岩蟒族的后裔…曾有人说过这是一个游荡在淫荡沙漠中的种族。"
 
 #. Key:	02FDE6D44BCEE7E9CD0113AACDF9C4E2
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaDefault01_RechargeSpiritForm_RL_T.Default__LeylannaDefault01_RechargeSpiritForm_RL_T_C.ResponseData(1).ResponseData.BreederPrompt
@@ -165,7 +165,7 @@ msgstr "事情好像变得有些奇怪了……"
 #: /Game/Dialogue/Fesssi/Default/FesssiCave.Default__FesssiCave_C.SessionData.Lines(1).Lines
 msgctxt ",03434DDC47EC9AE95DD6FF899A0ECE62"
 msgid "Deep in the dark caverns of the world live the more \"unsavory\" @MONSTER_RACE@."
-msgstr ""
+msgstr "在这片黑暗深邃的世界中有着更多的生命"
 
 #. Key:	034A5C0F4CB9984BC7F902A4AE65BB8A
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01_R05.Default__CamillaDefault01_R05_C.SessionData.Lines(0).Lines
@@ -214,7 +214,7 @@ msgstr "喵呜！爽死了！小野猫要被自己的猫咪精液呛到了！"
 #: /Game/Dialogue/Widow/Default/WidowKeystone.Default__WidowKeystone_C.SessionData.Lines(1).Lines
 msgctxt ",0417FF204F76BA02C95525915D7673A9"
 msgid "A clumsy lamia with an oversized behind came down here a few years ago and left it there."
-msgstr ""
+msgstr "曾经有一只傻乎乎的lamia带着这个巨大的玩意来到这里，并且把它留在了这儿。"
 
 #. Key:	04205AC945DE4E603D9147AFE4BB7547
 #. SourceLocation:	/Game/Dialogue/Neela/SexScenes/NeelaSnakeCuddleT.Default__NeelaSnakeCuddleT_C.SessionData.Lines(0).Lines
@@ -228,7 +228,7 @@ msgstr "啊…用力！啊啊啊~用力操穿我空虚已久的小穴…"
 #: /Game/Dialogue/Mirru/Default/MirruHadSex01.Default__MirruHadSex01_C.SessionData.LinesToFemale(1).LinesToFemale
 msgctxt ",0468AC1040BB9A10D1960B833F9A8305"
 msgid "For that I am thankful."
-msgstr ""
+msgstr "对此我深表感激。"
 
 #. Key:	04744CA84CBAE9AB13EA1989A23A0DDC
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01.Default__FaleneDefault01_C.SessionData.Lines(0).Lines
@@ -242,7 +242,7 @@ msgstr "我马上要离开你的农场了！不过别担心，你能在海顿小
 #: /Game/Dialogue/QueenBee/Default/BeeHaveKeystone.Default__BeeHaveKeystone_C.SessionData.Lines(0).Lines
 msgctxt ",047A2B2C4D533C816757C8B486F04CC0"
 msgid "Of course not. It's been a symbol of my hive for ages."
-msgstr ""
+msgstr "当然不，它一直以来都是我的蜂巢的象征。"
 
 #. Key:	04809803498EAC7920E3F09D8A29F0BF
 #. SourceLocation:	/Game/Dialogue/Fern/Default/FernGreeting01.Default__FernGreeting01_C.SessionData.Lines(4).Lines
@@ -256,7 +256,7 @@ msgstr "是您……嘶嘶要来滋润我了嘶？"
 #: /Game/Dialogue/Fesssi/Default/FesssiDefault01.Default__FesssiDefault01_C.SessionData.Lines(0).Lines
 msgctxt ",04B934DA4280B01E3757EB87CAD514BE"
 msgid "Sure, letting the dryad play with my ass in exchange for fruit was fun for awhile. Her decadent cherries are delicious."
-msgstr ""
+msgstr "当然，用我的丰臀去和树妖一起交换品尝对方的果实实在太美妙了…她那堕落的樱桃很美味。"
 
 #. Key:	0500B4944007820F3A7BB096A4E699AB
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieGreeting01.Default__CassieGreeting01_C.SessionData.Lines(6).Lines
@@ -270,7 +270,7 @@ msgstr "如果你想要为你的野生魔弗灵们搭建新家一定要告诉我
 #: /Game/Dialogue/Cassie/Default/CassieDungeon.Default__CassieDungeon_C.SessionData.Lines(4).Lines
 msgctxt ",051883BC403A71EC7220ACAE27A63552"
 msgid "That old rusty set of gears above the town entrance probably controls a pulley system."
-msgstr ""
+msgstr "城镇入口上方那套生锈的旧齿轮可能控制着一个滑轮系统"
 
 #. Key:	0522652344116C917836F4A1A78C8815
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01_R07.Default__CamillaDefault01_R07_C.SessionData.LinesToFemale(0).LinesToFemale
@@ -291,7 +291,7 @@ msgstr "和我讲讲Lamias吧"
 #: /Game/Dialogue/QueenBee/Default/BeeTaskFulfilled.Default__BeeTaskFulfilled_C.SessionData.Lines(0).Lines
 msgctxt ",0529D0BB4C3047950C7EE496E1F0E5BC"
 msgid "Rejoice, for the flowers have returned!"
-msgstr ""
+msgstr "为了终于回归的花儿们献上喝彩吧！"
 
 #. Key:	0559493D46F48B86A2683FB3AC087112
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01_FutaBalls.Default__CamillaDefault01_FutaBalls_C.SessionData.Lines(0).Lines
@@ -305,14 +305,14 @@ msgstr "Sugar walls before balls!"
 #: /Game/Dialogue/Petra/Default/PetraGetKeystone.Default__PetraGetKeystone_C.SessionData.Lines(1).Lines
 msgctxt ",056C9C1748701D33A4113FB426A3981C"
 msgid "However..."
-msgstr ""
+msgstr "但是…"
 
 #. Key:	06271AC24974DE1182364AAD430A9574
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaHadSex02.Default__CamillaHadSex02_C.SessionData.LinesToMale(3).LinesToMale
 #: /Game/Dialogue/Camilla/Default/CamillaHadSex02.Default__CamillaHadSex02_C.SessionData.LinesToMale(3).LinesToMale
 msgctxt ",06271AC24974DE1182364AAD430A9574"
 msgid "If you... uh... ever get desperate again, you know where to find me!"
-msgstr ""
+msgstr "如果…你…嗯，再次陷入那种过激的…我是说，你知道在哪里可以找到我！"
 
 #. Key:	0629816F428092E0C5B0169DD3E8F968
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R02.Default__FaleneDefault01_R02_C.SessionData.Lines(8).Lines
@@ -340,7 +340,7 @@ msgstr "你知道的，@WORLD_NAME@处处遍布我的脚印……滑痕，如果
 #: /Game/Dialogue/QueenBee/Default/BeeDefault02_RL.Default__BeeDefault02_RL_C.ResponseData(1).ResponseData.BreederPrompt
 msgctxt ",06A529F441EB1545EE626A8ECC49CBCC"
 msgid "Do you masturbate all day?"
-msgstr ""
+msgstr "你整天都在自慰嘛？"
 
 #. Key:	06DCC78B4F1DECA217645DA58B3BB2A4
 #. SourceLocation:	/Game/Dialogue/Fern/Default/FernDefault01_R02_R01.Default__FernDefault01_R02_R01_C.SessionData.Lines(0).Lines
@@ -368,21 +368,21 @@ msgstr "这个世界是属于魔弗灵的乐园——这是一个神秘的，由
 #: /Game/Dialogue/Autumn/Default/DryadBossomCherries.Default__DryadBossomCherries_C.SessionData.Lines(3).Lines
 msgctxt ",07035EA54B778F47897F278270889BBF"
 msgid "Aww... it's so adorable watching them figure out how to reach the fruit on the high branches."
-msgstr ""
+msgstr "啊哦…看着它们学会如何碰触高枝上的果实真是太讨人喜欢了。"
 
 #. Key:	075A16DA4BA7F51C3A07099921F7F1B3
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyHadSex01.Default__RomyHadSex01_C.SessionData.LinesGrungy(1).LinesGrungy
 #: /Game/Dialogue/Romy/Default/RomyHadSex01.Default__RomyHadSex01_C.SessionData.LinesGrungy(1).LinesGrungy
 msgctxt ",075A16DA4BA7F51C3A07099921F7F1B3"
 msgid "You need a bath. Come now, place your body between my breasts and let's get you clean."
-msgstr ""
+msgstr "你需要好好洗个澡。来吧，把身子埋在我的乳沟里，让我给你洗的干干净净的"
 
 #. Key:	07B2E95342A617616201F19B87E3655A
 #. SourceLocation:	/Game/Dialogue/MegaSlime/Default/MegaSlimePlay1.Default__MegaSlimePlay1_C.SessionData.LinesToFuta(3).LinesToFuta
 #: /Game/Dialogue/MegaSlime/Default/MegaSlimePlay1.Default__MegaSlimePlay1_C.SessionData.LinesToFuta(3).LinesToFuta
 msgctxt ",07B2E95342A617616201F19B87E3655A"
 msgid "You will feel so good as I milk your cock for all of its delicious semen..."
-msgstr ""
+msgstr "像挤奶一样给你弄射绝对会让你爽上天。"
 
 #. Key:	07E0077146239E020D026BADBDFCE890
 #. SourceLocation:	/Game/Breeding/Positions/Harvest.Default__Harvest_C.SessionData.PositionName
@@ -417,49 +417,49 @@ msgstr "你可以用我的乳汁滋润自己了！"
 #: /Game/Dialogue/OrcChief/Default/OrcDefault03_RL.Default__OrcDefault03_RL_C.ResponseData(4).ResponseData.BreederPrompt
 msgctxt ",085EF70E45D784AFAEFB07BC461A23D9"
 msgid "Are all orcs as brash and dumb as you?"
-msgstr ""
+msgstr "所有的兽人都像你一样愚蠢且自大吗？"
 
 #. Key:	08A1991945921B46D9EF9A94894EF846
 #. SourceLocation:	/Game/Dialogue/QueenBee/Default/BeeDefault01.Default__BeeDefault01_C.SessionData.LinesToMale(0).LinesToMale
 #: /Game/Dialogue/QueenBee/Default/BeeDefault01.Default__BeeDefault01_C.SessionData.LinesToMale(0).LinesToMale
 msgctxt ",08A1991945921B46D9EF9A94894EF846"
 msgid "This corner is n-n-nice and safe!"
-msgstr ""
+msgstr "真是个绝-绝佳的角落，非常安全！"
 
 #. Key:	08A2508F4D57261E790AB8BEA258D6B2
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryHadSex01.Default__EmissaryHadSex01_C.SessionData.LinesToFemale(1).LinesToFemale
 #: /Game/Dialogue/Emissary/Default/EmissaryHadSex01.Default__EmissaryHadSex01_C.SessionData.LinesToFemale(1).LinesToFemale
 msgctxt ",08A2508F4D57261E790AB8BEA258D6B2"
 msgid "Understand, thou has licked a vagina as old as time itself."
-msgstr ""
+msgstr "你要明白，你舔舐的洞穴…如同时间一样古老。"
 
 #. Key:	08DE001E4420BE30688798BF6B70729D
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryCockblockGates.Default__EmissaryCockblockGates_C.SessionData.Lines(4).Lines
 #: /Game/Dialogue/Emissary/Default/EmissaryCockblockGates.Default__EmissaryCockblockGates_C.SessionData.Lines(4).Lines
 msgctxt ",08DE001E4420BE30688798BF6B70729D"
 msgid "You will need to satisfy their desires before they will give them up."
-msgstr ""
+msgstr "你需要在它们放弃之前填满它们的欲望。"
 
 #. Key:	0925499D4273278AA298A99B40C4550F
 #. SourceLocation:	/Game/Dialogue/DragonMatriarch/Default/DMYourChildren.Default__DMYourChildren_C.SessionData.LinesToFuta(2).LinesToFuta
 #: /Game/Dialogue/DragonMatriarch/Default/DMYourChildren.Default__DMYourChildren_C.SessionData.LinesToFuta(2).LinesToFuta
 msgctxt ",0925499D4273278AA298A99B40C4550F"
 msgid "Believe me human, I have birthed many offspring."
-msgstr ""
+msgstr "相信我，人类，我孕育过很多的孩子。"
 
 #. Key:	093760FD4181D0AA284C4D96884A3801
 #. SourceLocation:	/Game/Dialogue/AmberMae/Default/AmberMaeLockedDungeon2.Default__AmberMaeLockedDungeon2_C.SessionData.Lines(1).Lines
 #: /Game/Dialogue/AmberMae/Default/AmberMaeLockedDungeon2.Default__AmberMaeLockedDungeon2_C.SessionData.Lines(1).Lines
 msgctxt ",093760FD4181D0AA284C4D96884A3801"
 msgid "Took me love for milk too far, 'an the 'ol bovaur genes kicked in."
-msgstr ""
+msgstr "奶牛娘的基因中铭刻着对牛奶最为深远的爱。"
 
 #. Key:	094AB3854E6DACE10C94B28ADCB83FE0
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaFaleneWeek.Default__CamillaFaleneWeek_C.SessionData.Lines(2).Lines
 #: /Game/Dialogue/Camilla/Default/CamillaFaleneWeek.Default__CamillaFaleneWeek_C.SessionData.Lines(2).Lines
 msgctxt ",094AB3854E6DACE10C94B28ADCB83FE0"
 msgid "The best thing she finds, she brings back here to examine."
-msgstr ""
+msgstr "找到更好的东西之后，她会带回来好好看看"
 
 #. Key:	0968DD0D4744523D6AFCEABE502C530F
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R07.Default__FaleneDefault01_R07_C.SessionData.LinesToFemale(1).LinesToFemale
@@ -473,14 +473,14 @@ msgstr "我已经饥渴难耐！张开你的大腿，人类，因为我要来啦
 #: /Game/Dialogue/Mirru/Default/MirruHadSex01.Default__MirruHadSex01_C.SessionData.LinesToFemale(4).LinesToFemale
 msgctxt ",099488164DB48F48395E94B86F3EE565"
 msgid "My lust is quickly regenerating, and I would gladly mate with you again."
-msgstr ""
+msgstr "我的欲火正在飞速重燃…我很乐意和你再来一次。"
 
 #. Key:	09C95B9C48668D0B269B88826710F912
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryHadSex01.Default__EmissaryHadSex01_C.SessionData.LinesToFuta(2).LinesToFuta
 #: /Game/Dialogue/Emissary/Default/EmissaryHadSex01.Default__EmissaryHadSex01_C.SessionData.LinesToFuta(2).LinesToFuta
 msgctxt ",09C95B9C48668D0B269B88826710F912"
 msgid "Is that a comforting feeling?"
-msgstr ""
+msgstr "感觉应该会美妙？"
 
 #. Key:	0A1E776A4877D11A8A4716A6FEE789C1
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(7).LinesToMale
@@ -494,14 +494,14 @@ msgstr "魔弗灵的起源不仅古老且未知，但是我们比其他生灵都
 #: /Game/Dialogue/Petra/Default/PetraAboutPawsmaati.Default__PetraAboutPawsmaati_C.SessionData.Lines(6).Lines
 msgctxt ",0A6AA641405E829B424AFE8894AB0083"
 msgid "When Pawsmaati finally unleashed her river of cum, I entered a dreamlike state in which I felt my mind unite with her's."
-msgstr ""
+msgstr "当Pawsmaati终于释放出她的精液之河时，我和她的心灵在这种梦幻般的感觉中融为一体。"
 
 #. Key:	0A6CE0B4469F4068DE66F4AB8EC4EDA9
 #. SourceLocation:	/Game/Dialogue/MegaSlime/Default/MegaSlimePlay1.Default__MegaSlimePlay1_C.SessionData.LinesToFemale(1).LinesToFemale
 #: /Game/Dialogue/MegaSlime/Default/MegaSlimePlay1.Default__MegaSlimePlay1_C.SessionData.LinesToFemale(1).LinesToFemale
 msgctxt ",0A6CE0B4469F4068DE66F4AB8EC4EDA9"
 msgid "I think... you might be my best friend of all time."
-msgstr ""
+msgstr "我认为…你会是我有史以来最好的伙伴。"
 
 #. Key:	0AA608164C47369E28D0C6BFDB27289A
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruDefault01_AboutKrakens.Default__MirruDefault01_AboutKrakens_C.SessionData.Lines(0).Lines
